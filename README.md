@@ -1,0 +1,2 @@
+# Redshift_chatbot_demo
+SQLがわからなくても、日本語でDWHからデータ抽出する生成AIチャットボット
